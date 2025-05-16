@@ -142,7 +142,6 @@ Distributed under the MIT License.
 ##  📬 Contact
 
 <a href="https://www.linkedin.com/in/emanuel-mendiola-ortiz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sewer.sixfold.0p@icloud.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
